@@ -1,0 +1,15 @@
+{
+  "name": "collectd-statsd-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for collectd-to-statsd using the write_http plugin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "statsd",
+    "collectd"
+  ],
+  "author": "Richard Panek",
+  "license": "ISC"
+}
